@@ -1,0 +1,14 @@
+.DS_Store
+control_code/results 
+utilities/__pycache__
+stoched/utils/__pycache__
+stoched/utils/utilities/__pycache__
+stoched/__pycache__
+control_code/figures/*
+control_code/*.ipynb
+control_code/.ipynb_checkpoints/*
+control_code/*.pickle
+control_code/__pycache__
+control_code/*.npy
+stoched/*.npy
+
